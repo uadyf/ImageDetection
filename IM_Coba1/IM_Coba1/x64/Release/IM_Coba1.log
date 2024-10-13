@@ -1,0 +1,16 @@
+﻿  IM_Coba1.cpp
+D:\ImageDetection\IM_Coba1\IM_Coba1.cpp(56,65): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+D:\ImageDetection\IM_Coba1\IM_Coba1.cpp(56,65): warning C4244:         with
+D:\ImageDetection\IM_Coba1\IM_Coba1.cpp(56,65): warning C4244:         [
+D:\ImageDetection\IM_Coba1\IM_Coba1.cpp(56,65): warning C4244:             _Rep=__int64
+D:\ImageDetection\IM_Coba1\IM_Coba1.cpp(56,65): warning C4244:         ]
+D:\ImageDetection\IM_Coba1\IM_Coba1.cpp(67,12): warning C4101: 'j': unreferenced local variable
+D:\ImageDetection\IM_Coba1\IM_Coba1.cpp(67,9): warning C4101: 'i': unreferenced local variable
+D:\ImageDetection\IM_Coba1\IM_Coba1.cpp(335,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\ImageDetection\IM_Coba1\IM_Coba1.cpp(480,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  0 of 1312 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  IM_Coba1.vcxproj -> D:\ImageDetection\IM_Coba1\x64\Release\IM_Coba1.exe

@@ -1,0 +1,7 @@
+﻿  IM.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+D:\ImageDetection\IM_Coba1\IM.cpp(39): warning C4715: 'chooseFile': not all control paths return a value
+  All 466 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  IM_Coba1.vcxproj -> D:\ImageDetection\IM_Coba1\x64\Release\IM.exe
